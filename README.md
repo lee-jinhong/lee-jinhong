@@ -1,4 +1,4 @@
-## Hi there 👋
+
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=200%20OK%20Jinhong!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=FFFFFF)
 
 <!--
